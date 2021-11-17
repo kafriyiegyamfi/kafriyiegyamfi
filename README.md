@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/kafriyiegyamfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kafriyiegyamfi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/kwabena-afriyie-gyamfi-a79b93129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/kwabena-afriyie-gyamfi-a79b93129" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/zlatan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zlatan" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13540424/zlatan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zlatan" height="30" width="40" /></a>
 <a href="https://kaggle.com/kwabenaafriyiegyamfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kwabenaafriyiegyamfi" height="30" width="40" /></a>
 </p>
 
